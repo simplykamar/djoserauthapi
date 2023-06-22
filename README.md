@@ -1,5 +1,5 @@
 ## Django REST Framework Complete Authentication API with Djoser
-### Video Link:- https://youtu.be/_IKk553cH2s
+
 
 ## To Run this Project follow below:
 
